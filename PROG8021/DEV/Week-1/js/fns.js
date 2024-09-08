@@ -16,7 +16,7 @@ function add(){
   //let h1ct = $('#h1id').text(); // .html() // a liitle bit diff
   //alert(h1ct);
 
-  $('#h2id').text(result);
+  // $('#h2id').text(result);
   $('#h2id').append(result);
 
 }
